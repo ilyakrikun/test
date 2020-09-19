@@ -1,0 +1,177 @@
+!SESSION 2020-09-19 18:28:51.912 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=ru_UA
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-09-19 18:29:09.071
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-09-19 18:29:09.188
+!MESSAGE OS info: Linux, 5.4.64-1-MANJARO, amd64
+
+!ENTRY TrueSTUDIO 1 0 2020-09-19 18:29:10.825
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /opt/Atollic_TrueSTUDIO_for_STM32_x86_64_9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-09-19 18:29:10.826
+!MESSAGE Workspace: /home/ilya/test
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-09-19 18:29:13.426
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY org.eclipse.jface 2 0 2020-09-19 18:29:13.437
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-09-19 18:29:13.437
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4a4ff5ed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ddb302,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 2 0 2020-09-19 18:29:13.467
+!MESSAGE Could not register either review selection listener or part listener.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-09-19 18:29:13.474
+!MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-09-19 18:29:36.783
+!MESSAGE Unloading product manager
+!SESSION 2020-09-19 18:29:39.836 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=ru_UA
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-09-19 18:29:51.408
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-09-19 18:29:51.423
+!MESSAGE OS info: Linux, 5.4.64-1-MANJARO, amd64
+
+!ENTRY TrueSTUDIO 1 0 2020-09-19 18:29:53.309
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /opt/Atollic_TrueSTUDIO_for_STM32_x86_64_9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-09-19 18:29:53.310
+!MESSAGE Workspace: /home/ilya/test
+
+!ENTRY org.eclipse.jface 2 0 2020-09-19 18:29:55.592
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-09-19 18:29:55.592
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6bfdaa7a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7e3d168e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-09-19 18:30:00.329
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-09-19 18:30:00.420
+!MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.231
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.236
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.245
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.246
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-09-19 18:31:03.307
+!MESSAGE stm32_test needs property 'com.atollic.truestudio.general.runtimelib.1393463084' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-09-19 18:31:03.308
+!MESSAGE Failed to get device info (Debug) for project stm32_test
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-09-19 18:31:03.309
+!MESSAGE Failed to get device info (Debug) for project stm32_test
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-09-19 18:31:03.309
+!MESSAGE Failed to get device info (Debug) for project stm32_test
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-09-19 18:31:03.310
+!MESSAGE stm32_test needs property 'com.atollic.truestudio.general.runtimelib.1030335526' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-09-19 18:31:03.311
+!MESSAGE Failed to get device info (Release) for project stm32_test
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-09-19 18:31:03.311
+!MESSAGE Failed to get device info (Release) for project stm32_test
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-09-19 18:31:03.311
+!MESSAGE Failed to get device info (Release) for project stm32_test
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.375
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.376
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.384
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.385
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.490
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:03.491
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:22.252
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:22.841
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:23.373
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-09-19 18:31:23.799
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-09-19 18:31:40.718
+!MESSAGE Unloading product manager
+
+!ENTRY org.eclipse.core.jobs 4 2 2020-09-19 18:31:41.068
+!MESSAGE An internal error occurred during: "C/C++ Indexer".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.core.internal.runtime.InternalPlatform.getLog(InternalPlatform.java:349)
+	at org.eclipse.core.runtime.Plugin.getLog(Plugin.java:267)
+	at org.eclipse.cdt.core.CCorePlugin.log(CCorePlugin.java:1607)
+	at org.eclipse.cdt.core.CCorePlugin.log(CCorePlugin.java:1586)
+	at org.eclipse.cdt.core.CCorePlugin.log(CCorePlugin.java:1572)
+	at org.eclipse.cdt.internal.core.pdom.PDOMIndexerJob.run(PDOMIndexerJob.java:170)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
