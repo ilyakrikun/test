@@ -1,3 +1,0 @@
-ini.c:7:6:LCD_GPIO_ini	16	static
-ini.c:112:6:PinInit	16	static
-ini.c:129:6:ButtonPinInit	16	static

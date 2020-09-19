@@ -1,6 +1,0 @@
-core_cm3.h:1014:22:NVIC_SetPriority	16	static
-core_cm3.h:1139:26:SysTick_Config	16	static
-button.c:17:9:DebounceStartButton	24	static
-button.c:34:9:DebounceSelectButton	24	static
-button.c:53:9:StartButton	8	static
-button.c:103:9:SelectButton	16	static
