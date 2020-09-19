@@ -1,0 +1,8 @@
+LCD.c:7:6:LCD_Set_Data	16	static
+LCD.c:19:6:LCD_Send_Command	16	static
+LCD.c:28:6:LCD_Send_Data	16	static
+LCD.c:37:6:LCD_ini	8	static
+LCD.c:61:6:LCD_Send_String	24	static
+LCD.c:83:6:LCD_Send_Pointer	24	static
+LCD.c:106:6:LCD_Screen	72	static
+LCD.c:140:6:LCD_Pointer	24	static
